@@ -3,3 +3,16 @@ function forLoop(array) {
     "I am ${i} strange loop${i === 0 ? '' : 's'}.";
 }
 }
+
+function whileLoop(n) {
+  for (let i = 0; i<num; i++)
+  {
+
+  }
+}
+
+function doWhileLoop(num)
+{
+
+
+}
