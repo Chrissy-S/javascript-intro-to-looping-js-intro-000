@@ -6,10 +6,11 @@ return array;
 }
 
 function whileLoop(n) {
-  var countdown = n;
+  let countdown = n;
   while (countdown > 0) {
     console.log(--countdown);
   }
+  return "done";
 }
 
 function doWhileLoop(num)
